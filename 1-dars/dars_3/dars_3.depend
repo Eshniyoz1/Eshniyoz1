@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638607375 source:e:\1-dars\dars_3\main.cpp
+	<iostream>
+	<math.h>
+
